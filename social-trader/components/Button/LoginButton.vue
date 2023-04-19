@@ -5,4 +5,5 @@
   >
     Get started
   </button>
+  <span></span>
 </template>
